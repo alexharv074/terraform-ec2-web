@@ -11,6 +11,8 @@ It is expected that you already have installed:
 - Terraform >= 0.12
 - Bundler (for Serverspec)
 
+A system Ruby is expected to be installed too (again, for Serverspec).
+
 ## Usage
 
 Spin up the EC2 instance:
